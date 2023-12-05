@@ -1,4 +1,4 @@
-streamlit==0.89.0
-scikit-learn==0.24.2
-nltk==3.6.2
-imbalanced-learn==0.9.0
+streamlit
+scikit-learn
+nltk
+imbalanced-learn
